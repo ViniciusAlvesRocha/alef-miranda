@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "tsc && vite build --base= https://viniciusalvesrocha.github.io/alef-miranda/master/dist/",
+    "build": "tsc && vite build --base= https://viniciusalvesrocha.github.io/alef-miranda/dist/",
     "preview": "vite preview"
   },
   "dependencies": {
