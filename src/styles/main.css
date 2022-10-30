@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Balgin Regular;
+    src: url("../fonts/Demo_Fonts/Fontspring-DEMO-balgindisplay-regular.otf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(to bottom, #000, #010819);
+    color: #fff;
+}
+/* # */
+  
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
